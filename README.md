@@ -1,4 +1,4 @@
-# qtrstick
+# Quarter Stick
 Bitcoin & microcurrency (SHA256D) Miner - Single ASIC Chip - USB 4.0 (Type C) - Built w\ Eagle
 
 Many thanks to Sidehack (gekkoscience), Kano (cgminer), and Skot (bitaxe)!!
